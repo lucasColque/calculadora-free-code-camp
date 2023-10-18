@@ -1,0 +1,15 @@
+.contenedor__calculadora{
+    margin-top: 100px;
+    width: 400px;
+    height: 600px;
+    padding: 14px;
+    background-color: #2a3049;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.fila{
+    margin: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
